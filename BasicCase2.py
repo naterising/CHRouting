@@ -2,7 +2,7 @@ import cvxpy as cp
 import numpy as np
 from Inputs2 import *
 from Functions2 import *
-from api_distance_matrix import *
+from api_distance_matrix2 import *
 
 
 # Code as Simple TSP in CVXPY 
