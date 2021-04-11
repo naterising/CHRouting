@@ -2,7 +2,7 @@ from Inputs2 import *
 from Functions2 import *
 import cvxpy as cp
 import numpy as np
-from api_distance_matrix import *
+from api_distance_matrix2 import *
 
 #Retrieve order priority from Inputs
 orderPriority = getOrderPriorityList()
